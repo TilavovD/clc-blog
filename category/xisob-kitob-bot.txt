@@ -1,0 +1,25 @@
+ - xarajatlarni monitoring qiladi
+ 1) Depozit
+	a) manba
+	   - optional (text field)
+	   - saqlash imkoniyati
+	   (keyingi safar inline button orqali tanlash uchun)
+	b) summa 
+           - onboard button orqali 10 000 dan 
+		1 000 000 gacha tanlasa bo'ladigan
+	   - "boshqa summa"
+		button'i orqali boshqa summa kiritish
+	   - "saqlangan manba uchun oxirgi kiritilgan summani
+		taklif qilish
+ 2) Xarajat
+	a) izoh
+	   - required (text field)
+	   - saqlash imkoniyati
+	   (keyingi safar inline button orqali tanlash uchun)
+	b) summa
+           - onboard button orqali 10 000 dan 
+		1 000 000 gacha tanlasa bo'ladigan
+	   - "boshqa summa"
+		button'i orqali boshqa summa kiritish
+	   - "saqlangan izoh uchun oxirgi kiritilgan summani
+		taklif qilish

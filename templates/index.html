@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main</title>
+
+</head>
+<body>
+
+<form method='GET'>
+  <input type='text' name='search' value='{{ search }}'>
+  <input class="button" type='submit' value="Search">
+</form>
+
+
+{%for object in object_list %}
+<p>{{object.title}}</p>
+{%endfor%}
+
+</body>
+</html>

@@ -16,7 +16,7 @@ TODO:
 class AuthorDetailView(generics.RetrieveAPIView):
     queryset = Author.objects.all()
     serializer_class = AuthorDetailSerializer
-    lookup_field = 'id'
+
 
 
 class AuthorPostsView(generics.ListAPIView):

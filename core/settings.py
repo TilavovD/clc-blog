@@ -43,6 +43,9 @@ INSTALLED_APPS = [
     'post',
     'author',
     'common',
+    'contact',
+    'home',
+    'rest_framework_swagger',
     
 ]
 

@@ -44,3 +44,4 @@ class Post(BaseModel):
     views_count = models.PositiveIntegerField(default=0)
 
     is_popular = models.BooleanField(default=False)
+    is_featured = models.BooleanField(default=False)
